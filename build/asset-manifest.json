@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.06b33255.chunk.css",
+    "main.js": "/static/js/main.f84986b9.chunk.js",
+    "main.js.map": "/static/js/main.f84986b9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b53376f2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b53376f2.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.dbc1c331.chunk.js": "/static/js/2.dbc1c331.chunk.js",
+    "static/js/2.dbc1c331.chunk.js.map": "/static/js/2.dbc1c331.chunk.js.map",
+    "static/js/3.db7d9428.chunk.js": "/static/js/3.db7d9428.chunk.js",
+    "static/js/3.db7d9428.chunk.js.map": "/static/js/3.db7d9428.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.06b33255.chunk.css.map": "/static/css/main.06b33255.chunk.css.map",
+    "static/js/2.dbc1c331.chunk.js.LICENSE.txt": "/static/js/2.dbc1c331.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/static/media/1.29aea4f8.jpg",
+    "static/media/Form.css": "/static/media/2.9fab728d.jpg",
+    "static/media/Offers.css": "/static/media/3.7f563b9a.jpg",
+    "static/media/Confirmation.css": "/static/media/4.147df565.jpg",
+    "static/media/Logo EFE-Maroc.094683b5.png": "/static/media/Logo EFE-Maroc.094683b5.png",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b53376f2.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.dbc1c331.chunk.js",
+    "static/css/main.06b33255.chunk.css",
+    "static/js/main.f84986b9.chunk.js"
+  ]
+}
